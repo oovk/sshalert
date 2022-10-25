@@ -1,4 +1,4 @@
-# Script send sms alert when someone login to the linux instance as root.
+# Script send sms alert when someone logs into the linux instance as root.
 
 ## To run
 
